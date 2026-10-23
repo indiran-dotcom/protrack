@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ProTrack - Jira-Style Issue Tracker",
+  "description": "Enterprise Jira-inspired issue tracker with Scrum board, backlog, sprint planning, role authorization, and complete Spring Boot \u0026 MySQL starter architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
